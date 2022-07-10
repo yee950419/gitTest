@@ -9,6 +9,7 @@ public class MemberSelectManager {
 			, new MemberDTO(3, "user03", "pass03", "이순신", 40, '남')
 			, new MemberDTO(4, "user04", "pass04", "심사임당", 36, '여')
 			, new MemberDTO(5, "user05", "pass05", "윤봉길", 22, '남')
+			
 		};
 	}
 }
