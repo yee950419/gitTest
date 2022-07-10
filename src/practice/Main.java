@@ -15,7 +15,6 @@ public class Main {
 			System.out.println("9. 프로그램 종료");
 			System.out.println("메뉴 선택 : ");
 			
-
 			int menu = sc.nextInt();
 
 			switch (menu) {
